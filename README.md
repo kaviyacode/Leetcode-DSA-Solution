@@ -12,11 +12,11 @@ leetcode-solutions/
 ├── medium/
 ├── hard/
 
-Each file follows this naming convention :      <problem-number>-<problem-name>.py
+Each file follows this naming convention :      <problem-number>-<problem-name>.java
 
 For example:
-1-two-sum.py
-3-longest-substring-without-repeating-characters.py
+1-two-sum.java
+3-longest-substring-without-repeating-characters.java
 
 You may also find optional topic-wise folders in `by-topic/` such as:
 
