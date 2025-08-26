@@ -1,29 +1,20 @@
-# 🧠 LeetCode Solutions
+# 🚀 LeetCode Solutions
 
-Welcome to my LeetCode practice repository!  
-This repo contains my personal solutions to various LeetCode problems, organized for easy revision and consistent learning.
+This repository contains my solutions to **[LeetCode](https://leetcode.com/)** problems.  
+All solutions are organized by problem name and/or folder, automatically pushed from my coding environment.
 
-## 📁 Structure
+## 📂 Structure
+- Each folder corresponds to a LeetCode problem.
+- Solutions may include multiple languages (Python, Java, C++, etc.) if attempted.
+- Auto-generated commits whenever I solve new problems.
 
-1)The solutions are grouped by difficulty level:
+## 🎯 Purpose
+- Track my progress on LeetCode
+- Improve problem-solving skills
+- Prepare for coding interviews
+- Build a reference of solutions with explanations
 
-leetcode-solutions/
-├── easy/
-├── medium/
-├── hard/
 
-Each file follows this naming convention :      <problem-number>-<problem-name>.java
 
-For example:
-1-two-sum.java
-3-longest-substring-without-repeating-characters.java
-
-You may also find optional topic-wise folders in `by-topic/` such as:
-
-by-topic/
-├── array/
-├── string/
-├── dynamic-programming/
-├── graph/
 
 
